@@ -1,0 +1,66 @@
+ 
+  ----jGRASP exec: java Q18ESPGame
+ pick a color (Red, Green, Blue, Orange, Yellow)
+ Guess: blue
+ Random Color: red
+ 
+ Wrong!
+ 
+ pick a color (Red, Green, Blue, Orange, Yellow)
+ Guess: red
+ Random Color: red
+ 
+ Correct!
+ 
+ pick a color (Red, Green, Blue, Orange, Yellow)
+ Guess: green
+ Random Color: Blue
+ 
+ Wrong!
+ 
+ pick a color (Red, Green, Blue, Orange, Yellow)
+ Guess: blue
+ Random Color: Orange
+ 
+ Wrong!
+ 
+ pick a color (Red, Green, Blue, Orange, Yellow)
+ Guess: red
+ Random Color: Orange
+ 
+ Wrong!
+ 
+ pick a color (Red, Green, Blue, Orange, Yellow)
+ Guess: red
+ Random Color: Green
+ 
+ Wrong!
+ 
+ pick a color (Red, Green, Blue, Orange, Yellow)
+ Guess: red
+ Random Color: Orange
+ 
+ Wrong!
+ 
+ pick a color (Red, Green, Blue, Orange, Yellow)
+ Guess: orange
+ Random Color: Blue
+ 
+ Wrong!
+ 
+ pick a color (Red, Green, Blue, Orange, Yellow)
+ Guess: green
+ Random Color: Green
+ 
+ Correct!
+ 
+ pick a color (Red, Green, Blue, Orange, Yellow)
+ Guess: blue
+ Random Color: Yellow
+ 
+ Wrong!
+ 
+ You guess correct 2 times
+ 
+  ----jGRASP: operation complete.
+ 
